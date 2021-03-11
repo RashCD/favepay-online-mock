@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/favepay-online-mock/static/css/main.4aba56fb.chunk.css",
-    "main.js": "/favepay-online-mock/static/js/main.014709c6.chunk.js",
-    "main.js.map": "/favepay-online-mock/static/js/main.014709c6.chunk.js.map",
+    "main.js": "/favepay-online-mock/static/js/main.c4bcc1a2.chunk.js",
+    "main.js.map": "/favepay-online-mock/static/js/main.c4bcc1a2.chunk.js.map",
     "runtime-main.js": "/favepay-online-mock/static/js/runtime-main.d3474ca4.js",
     "runtime-main.js.map": "/favepay-online-mock/static/js/runtime-main.d3474ca4.js.map",
     "static/js/2.dc253345.chunk.js": "/favepay-online-mock/static/js/2.dc253345.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3474ca4.js",
     "static/js/2.dc253345.chunk.js",
     "static/css/main.4aba56fb.chunk.css",
-    "static/js/main.014709c6.chunk.js"
+    "static/js/main.c4bcc1a2.chunk.js"
   ]
 }
