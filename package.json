@@ -19,7 +19,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "yarn build && yarn gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
