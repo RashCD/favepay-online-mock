@@ -1,7 +1,12 @@
 {
   "hosting": {
-    "public": "build",
+    "public": "./build/favepay-online",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": []
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
   }
 }
