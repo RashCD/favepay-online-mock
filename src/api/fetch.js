@@ -4,6 +4,7 @@ async function postData(url = '', data = {}) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
       },
       redirect: 'follow',
       body: JSON.stringify(data),
