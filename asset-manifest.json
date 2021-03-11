@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/favepay-online-mock/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/favepay-online-mock/static/js/main.dbeb03ce.chunk.js",
-    "main.js.map": "/favepay-online-mock/static/js/main.dbeb03ce.chunk.js.map",
-    "runtime-main.js": "/favepay-online-mock/static/js/runtime-main.d15e0bbf.js",
-    "runtime-main.js.map": "/favepay-online-mock/static/js/runtime-main.d15e0bbf.js.map",
-    "static/js/2.63fa832b.chunk.js": "/favepay-online-mock/static/js/2.63fa832b.chunk.js",
-    "static/js/2.63fa832b.chunk.js.map": "/favepay-online-mock/static/js/2.63fa832b.chunk.js.map",
-    "static/js/3.aaca28a8.chunk.js": "/favepay-online-mock/static/js/3.aaca28a8.chunk.js",
-    "static/js/3.aaca28a8.chunk.js.map": "/favepay-online-mock/static/js/3.aaca28a8.chunk.js.map",
+    "main.css": "/favepay-online-mock/static/css/main.4aba56fb.chunk.css",
+    "main.js": "/favepay-online-mock/static/js/main.014709c6.chunk.js",
+    "main.js.map": "/favepay-online-mock/static/js/main.014709c6.chunk.js.map",
+    "runtime-main.js": "/favepay-online-mock/static/js/runtime-main.d3474ca4.js",
+    "runtime-main.js.map": "/favepay-online-mock/static/js/runtime-main.d3474ca4.js.map",
+    "static/js/2.dc253345.chunk.js": "/favepay-online-mock/static/js/2.dc253345.chunk.js",
+    "static/js/2.dc253345.chunk.js.map": "/favepay-online-mock/static/js/2.dc253345.chunk.js.map",
+    "static/js/3.15ecc0ea.chunk.js": "/favepay-online-mock/static/js/3.15ecc0ea.chunk.js",
+    "static/js/3.15ecc0ea.chunk.js.map": "/favepay-online-mock/static/js/3.15ecc0ea.chunk.js.map",
     "index.html": "/favepay-online-mock/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/favepay-online-mock/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.63fa832b.chunk.js.LICENSE.txt": "/favepay-online-mock/static/js/2.63fa832b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/favepay-online-mock/static/media/logo.6ce24c58.svg"
+    "static/css/main.4aba56fb.chunk.css.map": "/favepay-online-mock/static/css/main.4aba56fb.chunk.css.map",
+    "static/js/2.dc253345.chunk.js.LICENSE.txt": "/favepay-online-mock/static/js/2.dc253345.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d15e0bbf.js",
-    "static/js/2.63fa832b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dbeb03ce.chunk.js"
+    "static/js/runtime-main.d3474ca4.js",
+    "static/js/2.dc253345.chunk.js",
+    "static/css/main.4aba56fb.chunk.css",
+    "static/js/main.014709c6.chunk.js"
   ]
 }
